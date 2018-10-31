@@ -19,4 +19,5 @@ class Stock < ActiveRecord::Base
   #def self.strip_commas(number)
     #number.gsub(".", "") #substitui o primeiro valor pelo segundo, se o valor dado for uma string
   #end
+  
 end
